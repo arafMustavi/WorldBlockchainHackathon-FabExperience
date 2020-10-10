@@ -1,0 +1,3 @@
+10/Oct/2020 11:41PM(GMT+6) : We have initiated the GitHub Repo
+
+10/Oct/2020 11:55PM(GMT+6) : Decided to work using r3 Corda
