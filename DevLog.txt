@@ -1,3 +1,6 @@
 10/Oct/2020 11:41PM(GMT+6) : We have initiated the GitHub Repo
 
 10/Oct/2020 11:55PM(GMT+6) : Decided to work using r3 Corda
+
+11/Oct/2020 12:00PM(GMT+6) : Re-defined some work scope, pulled some code from the official r3 Corda Repo
+
