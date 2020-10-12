@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef19ba0d-a85f-4dcd-8990-70080609b429" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../BankBD\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BankBD" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Araf Mustavi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gUw14qMjt6nvJj7OeSuJ9BycYF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Internship Advanced Blockchain Training\PoC\BankBD\clients\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.BankBD [runPartyDServer]">
+    <configuration name="BankBD [runPartyAServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runPartyAServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankBD [runPartyBServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runPartyBServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankBD [runPartyCServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runPartyCServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankBD [runPartyDServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runPartyDServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="runnodes" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/build/nodes/runnodes" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/build/nodes" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BankBD.clients.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.server.Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.BankBD [runPartyDServer]" />
+        <item itemvalue="Gradle.BankBD [runPartyCServer]" />
+        <item itemvalue="Gradle.BankBD [runPartyAServer]" />
+        <item itemvalue="Gradle.BankBD [runPartyBServer]" />
+        <item itemvalue="Shell Script.runnodes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef19ba0d-a85f-4dcd-8990-70080609b429" name="Default Changelist" comment="" />
+      <created>1598182262004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598182262004</updated>
+      <workItem from="1598182263149" duration="267000" />
+      <workItem from="1598206128435" duration="6825000" />
+      <workItem from="1598214519489" duration="1061000" />
+      <workItem from="1598215743036" duration="750000" />
+      <workItem from="1598216561400" duration="843000" />
+      <workItem from="1598265310581" duration="634000" />
+      <workItem from="1598275558078" duration="1507000" />
+      <workItem from="1598337871240" duration="1227000" />
+      <workItem from="1598627198892" duration="378000" />
+      <workItem from="1598627670705" duration="120000" />
+      <workItem from="1598627823028" duration="1901000" />
+      <workItem from="1598629907481" duration="740000" />
+      <workItem from="1598630916963" duration="23000" />
+      <workItem from="1598804104521" duration="618000" />
+      <workItem from="1598973788137" duration="600000" />
+      <workItem from="1599036803035" duration="362000" />
+      <workItem from="1599039299973" duration="3972000" />
+      <workItem from="1599054797803" duration="80000" />
+      <workItem from="1599061176718" duration="1017000" />
+      <workItem from="1599072094794" duration="4065000" />
+      <workItem from="1599077638366" duration="3359000" />
+      <workItem from="1599107338593" duration="18387000" />
+      <workItem from="1599200808499" duration="9202000" />
+      <workItem from="1599220553243" duration="4015000" />
+      <workItem from="1599224713280" duration="11948000" />
+      <workItem from="1599243596026" duration="2858000" />
+      <workItem from="1599278130058" duration="3460000" />
+      <workItem from="1599305042698" duration="1177000" />
+      <workItem from="1600496499389" duration="697000" />
+      <workItem from="1600497341908" duration="621000" />
+      <workItem from="1600507316771" duration="549000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ready to rumble">
+      <created>1599229492794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599229492794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Complete Project Running">
+      <created>1599305479407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599305479407</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Complete Project Running | Readme revised">
+      <created>1599305528249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599305528249</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="Ready to rumble" />
+    <MESSAGE value="Complete Project Running" />
+    <MESSAGE value="Complete Project Running | Readme revised" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Project Running | Readme revised" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599130386519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1599130386519" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599116675879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1599116675879" />
+    <state x="126" y="0" key="CommitChangelistDialog2" timestamp="1599305526205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="126" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599305526205" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599053955625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599053955625" />
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom" timestamp="1599287052297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599287052297" />
+    <state width="1323" height="148" key="GridCell.Tab.0.center" timestamp="1599287052297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599287052297" />
+    <state width="1323" height="148" key="GridCell.Tab.0.left" timestamp="1599287052296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599287052296" />
+    <state width="1323" height="148" key="GridCell.Tab.0.right" timestamp="1599287052297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599287052297" />
+    <state x="292" y="298" key="ReplaceDuplicatesPrompt" timestamp="1599072595896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="298" key="ReplaceDuplicatesPrompt/0.0.1366.728@0.0.1366.728" timestamp="1599072595896" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599061193409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599061193409" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599305610678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599305610678" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599305303070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599305303070" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1599163871860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599163871860" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599228180516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599228180516" />
+  </component>
+</project>

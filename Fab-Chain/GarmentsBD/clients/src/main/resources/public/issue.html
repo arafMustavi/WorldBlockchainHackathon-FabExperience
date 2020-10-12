@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>Issue Token</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>      
+
+        <style>
+            body, html {
+              height: 100%;
+              margin: 0;
+              font-family: Arial, Helvetica, sans-serif;
+            }
+            .hero-image {
+              background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("photographer.jpg");
+              height: 50%;
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              position: relative;
+            }
+            .hero-text {
+              text-align: center;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              color: white;
+            }
+            </style>
+    </head>
+
+    <body>
+
+        <div class="hero-image">
+            <div class="hero-text">
+              <h1 style="font-size:50px">Issue Fab Token</h1>
+            </div>
+        </div>
+
+        <!-- <h2 style="text-align:center;"><b>Issue Token</b></h2> -->
+        <br>
+        <p style="text-align:center;">Receiver:  <input type="text" id="issue_bank_name"> </p><br>
+        <p style="text-align:center;">Amount: <input type="text" id="issue_amount"> </p><br>
+
+        <p style="text-align:center;">       
+            <button type="button" class="btn btn-success btn-lg" id="issue_token_button" >Issue Fab Token</button>
+            <a href = 'index.html'>
+            <button type="button" class="btn btn-warning btn-lg" id="home_page">Back To Home Page</button>
+            </a>       
+        </p>
+        <p style="text-align:center;">
+          *For VendorA : <b>O=VendorA,L=New York,C=US</b> <br>
+          For VendorB : <b>O=VendorB,L=Paris,C=FR</b><br>
+          For Manufacturer : <b>O=Manufacturer,L=Paris,C=FR</b>
+        </p>
+
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
+        <script src="garments.js"></script>
+
+        
+
+    </body>
+
+</html>
